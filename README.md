@@ -1,5 +1,5 @@
 # conversion_gbk_utf8
-收集C++11 gbk和utf8编码的相互转换
+收集C++11 gbk和utf8等编码的相互转换
 
 
 static std::string    ToString(const std::wstring& wstr);
